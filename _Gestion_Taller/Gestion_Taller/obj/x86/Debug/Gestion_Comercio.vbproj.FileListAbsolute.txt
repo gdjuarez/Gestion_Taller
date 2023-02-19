@@ -1,0 +1,331 @@
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe.config
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.pdb
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.xml
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmUsuarios.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FormInf_User.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmLogin.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.MDIMenu.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.Resources.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.GenerateResource.Cache
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\RdlCompile.cache
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\RdlCompile.compiled
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.exe
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.xml
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.pdb
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe.config
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.pdb
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.xml
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmUsuarios.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FormInf_User.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmLogin.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.MDIMenu.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.Resources.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.GenerateResource.Cache
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\RdlCompile.cache
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\RdlCompile.compiled
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.exe
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.xml
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.pdb
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbprojResolveAssemblyReference.cache
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe.config
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\bin\Debug\Gestion_Comercio.pdb
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\bin\Debug\Gestion_Comercio.xml
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbprojResolveAssemblyReference.cache
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmArticulos.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmClientes.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmMisDatos.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmProveedores.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmUsuarios.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FormInf_User.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmLogin.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.MDIMenu.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.Resources.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.GenerateResource.Cache
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\RdlCompile.cache
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\RdlCompile.compiled
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.exe
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.xml
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.pdb
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe.config
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.pdb
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.xml
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\MySql.Data.dll
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmArticulos.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmClientes.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmMisDatos.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmProveedores.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmAbout.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBackUp.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmHacerBackup.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmRestaurarBackUp.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaArticulo.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaCliente.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmCompras.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmVentas.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmUsuarios.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.LoginFormUsuarios.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FormInf_User.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmLogin.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.MDIMenu.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.Resources.resources
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.GenerateResource.cache
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.CoreCompileInputs.cache
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.CopyComplete
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.exe
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.xml
+F:\Pyotectos GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.pdb
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe.config
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.pdb
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.xml
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\bin\Debug\MySql.Data.dll
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbprojAssemblyReference.cache
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmArticulos.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmClientes.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmMisDatos.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmProveedores.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmAbout.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBackUp.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmHacerBackup.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmRestaurarBackUp.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaArticulo.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaCliente.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmCompras.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmVentas.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmUsuarios.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.LoginFormUsuarios.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FormInf_User.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmLogin.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.MDIMenu.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.Resources.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.GenerateResource.cache
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.CoreCompileInputs.cache
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.CopyComplete
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.exe
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.xml
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe.config
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmArticulos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmClientes.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmMisDatos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmAbout.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmHacerBackup.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmRestaurarBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaArticulo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaCliente.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmVentas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.LoginFormUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FormInf_User.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmLogin.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.MDIMenu.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.Resources.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.GenerateResource.Cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\RdlCompile.cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\RdlCompile.compiled
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.pdb
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmAbout.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBackUp.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmHacerBackup.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmRestaurarBackUp.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaArticulo.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaCliente.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmCompras.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmVentas.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.LoginFormUsuarios.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe.config
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.pdb
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.xml
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.PresupuestoImpresion.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmArticulos.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmClientes.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmMisDatos.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmProveedores.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmAbout.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBackUp.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmHacerBackup.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmRestaurarBackUp.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaArticulo.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaCliente.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaPresupuesto.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmCompras.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmPresupuestos.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmVentas.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmUsuarios.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.LoginFormUsuarios.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FormInf_User.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmLogin.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.MDIMenu.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.Resources.resources
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.GenerateResource.Cache
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\RdlCompile.cache
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\RdlCompile.compiled
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.exe
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.xml
+C:\Users\GDJ\Documents\Visual Studio 2010\Projects\Gestion_Comercio  con gifsys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.pdb
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe.config
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.pdb
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.xml
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.PresupuestoImpresion.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmArticulos.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmClientes.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmMisDatos.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmProveedores.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmAbout.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBackUp.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmHacerBackup.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmRestaurarBackUp.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaArticulo.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaCliente.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaPresupuesto.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmCompras.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmPresupuestos.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmVentas.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmUsuarios.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.LoginFormUsuarios.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FormInf_User.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmLogin.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.MDIMenu.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.Resources.resources
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.GenerateResource.Cache
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\RdlCompile.cache
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\RdlCompile.compiled
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.exe
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.xml
+E:\Data\Dropbox\Gif SyS\Proyectos GiFSys 2018\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe.config
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.PresupuestoImpresion.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmArticulos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmClientes.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmMisDatos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmAbout.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmHacerBackup.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmRestaurarBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaArticulo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaCliente.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaPresupuesto.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmPresupuestos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmVentas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.LoginFormUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FormInf_User.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmLogin.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.MDIMenu.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.Resources.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.GenerateResource.Cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\RdlCompile.cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\RdlCompile.compiled
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion_Comercio\Codigo VB\Gestion_Comercio con presupuesto\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.pdb
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmCaja.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.PresupuestoImpresion.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaPresupuesto.resources
+C:\Users\GUS\Desktop\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmPresupuestos.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe.config
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.pdb
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.xml
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbprojResolveAssemblyReference.cache
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmCaja.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.PresupuestoImpresion.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmArticulos.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmClientes.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmMisDatos.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmProveedores.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmAbout.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBackUp.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmHacerBackup.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmRestaurarBackUp.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaArticulo.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaCliente.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaPresupuesto.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmCompras.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmPresupuestos.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmVentas.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmUsuarios.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.LoginFormUsuarios.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FormInf_User.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmLogin.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.MDIMenu.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.Resources.resources
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.GenerateResource.Cache
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\RdlCompile.cache
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\RdlCompile.compiled
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.exe
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.xml
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.pdb
+D:\PROYECTOS GIFSYS\COMERCIO\Codigo VB\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmArqueo.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe.config
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.exe
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.pdb
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Gestion_Comercio.xml
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\MySql.Data.dll
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbprojAssemblyReference.cache
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaPresupuesto.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaVenta.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmArqueo.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmCaja.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmVuelto.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.PresupuestoImpresion.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmArticulos.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmClientes.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmMisDatos.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmProveedores.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmAbout.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBackUp.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmHacerBackup.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmRestaurarBackUp.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaArticulo.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmBusquedaCliente.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmCompras.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmPresupuestos.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmVentas.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.frmUsuarios.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.LoginFormUsuarios.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.MDIMenu.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmDesdeHasta.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmInformeCaja.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmInformeClientes.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmInformeCompras.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmInformeProveedores.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmInformeStock.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmInformeVentas.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.FrmLogin.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.Resources.resources
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.GenerateResource.cache
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.CoreCompileInputs.cache
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.vbproj.CopyComplete
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.exe
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.xml
+F:\PROYECTOS  GiFSys\Gestion_Comercio\Gestion_Comercio\obj\x86\Debug\Gestion_Comercio.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Taller\Gestion_Taller\bin\Debug\Gestion_Comercio.exe.config

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="G_TallerDataSetStock" targetNamespace="http://tempuri.org/G_TallerDataSetStock.xsd" xmlns:mstns="http://tempuri.org/G_TallerDataSetStock.xsd" xmlns="http://tempuri.org/G_TallerDataSetStock.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="G_TallerConexString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="G_TallerConexString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Gestion_Taller.My.MySettings.GlobalReference.Default.G_TallerConexString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vistaarticulosystockyprecioTableAdapter" GeneratorDataComponentClassName="vistaarticulosystockyprecioTableAdapter" Name="vistaarticulosystockyprecio" UserDataComponentName="vistaarticulosystockyprecioTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="G_TallerConexString (MySettings)" DbObjectName="gestion_taller.vistaarticulosystockyprecio" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `idArticulo`, `Descripcion`, `Marca`, `Rubro`, `Stock`, `PrecioVenta` FROM `gestion_taller`.`vistaarticulosystockyprecio`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="idArticulo" DataSetColumn="idArticulo" />
+              <Mapping SourceColumn="Descripcion" DataSetColumn="Descripcion" />
+              <Mapping SourceColumn="Marca" DataSetColumn="Marca" />
+              <Mapping SourceColumn="Rubro" DataSetColumn="Rubro" />
+              <Mapping SourceColumn="Stock" DataSetColumn="Stock" />
+              <Mapping SourceColumn="PrecioVenta" DataSetColumn="PrecioVenta" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="G_TallerDataSetStock" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="G_TallerDataSetStock" msprop:Generator_UserDSName="G_TallerDataSetStock">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vistaarticulosystockyprecio" msprop:Generator_TableClassName="vistaarticulosystockyprecioDataTable" msprop:Generator_TableVarName="tablevistaarticulosystockyprecio" msprop:Generator_TablePropName="vistaarticulosystockyprecio" msprop:Generator_RowDeletingName="vistaarticulosystockyprecioRowDeleting" msprop:Generator_RowChangingName="vistaarticulosystockyprecioRowChanging" msprop:Generator_RowEvHandlerName="vistaarticulosystockyprecioRowChangeEventHandler" msprop:Generator_RowDeletedName="vistaarticulosystockyprecioRowDeleted" msprop:Generator_UserTableName="vistaarticulosystockyprecio" msprop:Generator_RowChangedName="vistaarticulosystockyprecioRowChanged" msprop:Generator_RowEvArgName="vistaarticulosystockyprecioRowChangeEvent" msprop:Generator_RowClassName="vistaarticulosystockyprecioRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="idArticulo" msprop:Generator_ColumnVarNameInTable="columnidArticulo" msprop:Generator_ColumnPropNameInRow="idArticulo" msprop:Generator_ColumnPropNameInTable="idArticuloColumn" msprop:Generator_UserColumnName="idArticulo">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="13" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Descripcion" msprop:Generator_ColumnVarNameInTable="columnDescripcion" msprop:Generator_ColumnPropNameInRow="Descripcion" msprop:Generator_ColumnPropNameInTable="DescripcionColumn" msprop:Generator_UserColumnName="Descripcion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Marca" msprop:Generator_ColumnVarNameInTable="columnMarca" msprop:Generator_ColumnPropNameInRow="Marca" msprop:Generator_ColumnPropNameInTable="MarcaColumn" msprop:Generator_UserColumnName="Marca" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Rubro" msprop:Generator_ColumnVarNameInTable="columnRubro" msprop:Generator_ColumnPropNameInRow="Rubro" msprop:Generator_ColumnPropNameInTable="RubroColumn" msprop:Generator_UserColumnName="Rubro" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Stock" msprop:Generator_ColumnVarNameInTable="columnStock" msprop:Generator_ColumnPropNameInRow="Stock" msprop:Generator_ColumnPropNameInTable="StockColumn" msprop:Generator_UserColumnName="Stock" type="xs:unsignedInt" />
+              <xs:element name="PrecioVenta" msprop:Generator_ColumnVarNameInTable="columnPrecioVenta" msprop:Generator_ColumnPropNameInRow="PrecioVenta" msprop:Generator_ColumnPropNameInTable="PrecioVentaColumn" msprop:Generator_UserColumnName="PrecioVenta" type="xs:decimal" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:vistaarticulosystockyprecio" />
+      <xs:field xpath="mstns:idArticulo" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

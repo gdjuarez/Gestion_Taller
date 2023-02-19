@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2008/01/reportdefinition">
+  <DataSources>
+    <DataSource Name="G_TallerDataSetClientes">
+      <ConnectionProperties>
+        <DataProvider>System.Data.DataSet</DataProvider>
+        <ConnectString>/* Local Connection */</ConnectString>
+      </ConnectionProperties>
+      <rd:DataSourceID>9e591cba-e7c3-43ca-b6e6-ab7a0113e8bc</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="DataSetOrdenReparacion">
+      <Fields>
+        <Field Name="IdReparacion">
+          <DataField>IdReparacion</DataField>
+          <rd:TypeName>System.UInt32</rd:TypeName>
+        </Field>
+        <Field Name="Dominio">
+          <DataField>Dominio</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="IdCliente">
+          <DataField>IdCliente</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="FechaEntrada">
+          <DataField>FechaEntrada</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="DatosAveria">
+          <DataField>DatosAveria</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Marca">
+          <DataField>Marca</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="modelo">
+          <DataField>modelo</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Kilometros">
+          <DataField>Kilometros</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="RazonSocial">
+          <DataField>RazonSocial</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Apellido">
+          <DataField>Apellido</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="nombre">
+          <DataField>nombre</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="telfijo">
+          <DataField>telfijo</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="telcelular">
+          <DataField>telcelular</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="email">
+          <DataField>email</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>G_TallerDataSetClientes</DataSourceName>
+        <CommandText>/* Local Query */</CommandText>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>G_TallerDataSetOrdenReparacion</rd:DataSetName>
+        <rd:SchemaPath>E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Taller\Gestion_Taller\G_TallerDataSetOrdenReparacion.xsd</rd:SchemaPath>
+        <rd:TableName>Get_OrdenReparacion</rd:TableName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+        <rd:TableAdapterName>Get_OrdenReparacionTableAdapter</rd:TableAdapterName>
+      </rd:DataSetInfo>
+    </DataSet>
+    <DataSet Name="DataSetMisDatos">
+      <Fields>
+        <Field Name="RazonSocial">
+          <DataField>RazonSocial</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Direccion">
+          <DataField>Direccion</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Ciudad">
+          <DataField>Ciudad</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Telefono">
+          <DataField>Telefono</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Email">
+          <DataField>Email</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Cuit">
+          <DataField>Cuit</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>G_TallerDataSetClientes</DataSourceName>
+        <CommandText>/* Local Query */</CommandText>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>G_TallerDataSetMisDatos</rd:DataSetName>
+        <rd:SchemaPath>E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Taller\Gestion_Taller\G_TallerDataSetMisDatos.xsd</rd:SchemaPath>
+        <rd:TableName>misdatos</rd:TableName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+        <rd:TableAdapterName>misdatosTableAdapter</rd:TableAdapterName>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <Body>
+    <ReportItems>
+      <Image Name="Image1">
+        <Source>Embedded</Source>
+        <Value>Recurso16</Value>
+        <Sizing>FitProportional</Sizing>
+        <Top>0.41865cm</Top>
+        <Left>12.30723cm</Left>
+        <Height>3.83716cm</Height>
+        <Width>4.66958cm</Width>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+        </Style>
+      </Image>
+      <Textbox Name="Textbox10">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Trabajos a realizar</Value>
+                <Style>
+                  <FontFamily>Segoe UI</FontFamily>
+                  <FontSize>12pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox10</rd:DefaultName>
+        <Top>3.59365cm</Top>
+        <Left>1.51222cm</Left>
+        <Height>0.78521cm</Height>
+        <Width>6.49521cm</Width>
+        <ZIndex>1</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="TxtDiagnostico">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!DatosAveria.Value, "DataSetOrdenReparacion")</Value>
+                <Style>
+                  <FontFamily>Segoe UI</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <Top>4.41413cm</Top>
+        <Left>1.51223cm</Left>
+        <Height>3.6126cm</Height>
+        <Width>15.46458cm</Width>
+        <ZIndex>2</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox13">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Materiales y mano de obra</Value>
+                <Style>
+                  <FontFamily>Segoe UI</FontFamily>
+                  <FontSize>12pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox10</rd:DefaultName>
+        <Top>8.16784cm</Top>
+        <Left>1.51227cm</Left>
+        <Height>0.78521cm</Height>
+        <Width>6.49521cm</Width>
+        <ZIndex>3</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox14">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Datos del vehiculo</Value>
+                <Style>
+                  <FontFamily>Segoe UI</FontFamily>
+                  <FontSize>12pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox10</rd:DefaultName>
+        <Top>0.41865cm</Top>
+        <Left>1.51222cm</Left>
+        <Height>0.78521cm</Height>
+        <Width>6.49521cm</Width>
+        <ZIndex>4</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox15">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Dominio: </Value>
+                <Style>
+                  <FontFamily>Segoe UI</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox15</rd:DefaultName>
+        <Top>1.23913cm</Top>
+        <Left>1.51223cm</Left>
+        <Height>0.5cm</Height>
+        <Width>1.60042cm</Width>
+        <ZIndex>5</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox16">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Modelo:</Value>
+                <Style>
+                  <FontFamily>Segoe UI</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox15</rd:DefaultName>
+        <Top>2.23913cm</Top>
+        <Left>1.51223cm</Left>
+        <Height>0.5cm</Height>
+        <Width>1.60042cm</Width>
+        <ZIndex>6</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox17">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Marca:</Value>
+                <Style>
+                  <FontFamily>Segoe UI</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox15</rd:DefaultName>
+        <Top>1.73913cm</Top>
+        <Left>1.5122cm</Left>
+        <Height>0.5cm</Height>
+        <Width>1.60042cm</Width>
+        <ZIndex>7</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox18">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Kilometros:</Value>
+                <Style>
+                  <FontFamily>Segoe UI</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox15</rd:DefaultName>
+        <Top>2.73913cm</Top>
+        <Left>1.5122cm</Left>
+        <Height>0.5cm</Height>
+        <Width>1.91792cm</Width>
+        <ZIndex>8</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Rectangle Name="Rectangle4">
+        <KeepTogether>true</KeepTogether>
+        <Top>9.9361cm</Top>
+        <Left>1.19473cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45842cm</Width>
+        <ZIndex>9</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle5">
+        <KeepTogether>true</KeepTogether>
+        <Top>9.9361cm</Top>
+        <Left>13.97065cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.02445cm</Width>
+        <ZIndex>10</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle6">
+        <KeepTogether>true</KeepTogether>
+        <Top>10.49582cm</Top>
+        <Left>1.19473cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45841cm</Width>
+        <ZIndex>11</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle7">
+        <KeepTogether>true</KeepTogether>
+        <Top>10.49582cm</Top>
+        <Left>13.97065cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.02445cm</Width>
+        <ZIndex>12</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle18">
+        <KeepTogether>true</KeepTogether>
+        <Top>11.05554cm</Top>
+        <Left>1.1947cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45847cm</Width>
+        <ZIndex>13</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle19">
+        <KeepTogether>true</KeepTogether>
+        <Top>11.05554cm</Top>
+        <Left>13.97065cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.02445cm</Width>
+        <ZIndex>14</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle20">
+        <KeepTogether>true</KeepTogether>
+        <Top>11.61526cm</Top>
+        <Left>1.1947cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45847cm</Width>
+        <ZIndex>15</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle21">
+        <KeepTogether>true</KeepTogether>
+        <Top>11.61526cm</Top>
+        <Left>13.97065cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.02445cm</Width>
+        <ZIndex>16</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle22">
+        <KeepTogether>true</KeepTogether>
+        <Top>12.17498cm</Top>
+        <Left>1.19471cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45845cm</Width>
+        <ZIndex>17</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle23">
+        <KeepTogether>true</KeepTogether>
+        <Top>12.17498cm</Top>
+        <Left>13.97065cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.02445cm</Width>
+        <ZIndex>18</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Textbox Name="Textbox58">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Materiales y mano de obra</Value>
+                <Style>
+                  <FontFamily>Segoe UI</FontFamily>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox58</rd:DefaultName>
+        <Top>9.05888cm</Top>
+        <Left>1.19474cm</Left>
+        <Height>0.70083cm</Height>
+        <Width>12.45839cm</Width>
+        <ZIndex>19</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <VerticalAlign>Middle</VerticalAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox77">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Cantidad</Value>
+                <Style>
+                  <FontFamily>Segoe UI</FontFamily>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox77</rd:DefaultName>
+        <Top>9.05888cm</Top>
+        <Left>13.97069cm</Left>
+        <Height>0.70083cm</Height>
+        <Width>3.02437cm</Width>
+        <ZIndex>20</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <VerticalAlign>Middle</VerticalAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Rectangle Name="Rectangle8">
+        <KeepTogether>true</KeepTogether>
+        <Top>12.7347cm</Top>
+        <Left>1.19473cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45842cm</Width>
+        <ZIndex>21</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle9">
+        <KeepTogether>true</KeepTogether>
+        <Top>12.7347cm</Top>
+        <Left>13.96141cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.04293cm</Width>
+        <ZIndex>22</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle10">
+        <KeepTogether>true</KeepTogether>
+        <Top>13.29442cm</Top>
+        <Left>1.19473cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45841cm</Width>
+        <ZIndex>23</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle11">
+        <KeepTogether>true</KeepTogether>
+        <Top>13.29442cm</Top>
+        <Left>13.96141cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.04293cm</Width>
+        <ZIndex>24</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle24">
+        <KeepTogether>true</KeepTogether>
+        <Top>13.85414cm</Top>
+        <Left>1.1947cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45847cm</Width>
+        <ZIndex>25</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle25">
+        <KeepTogether>true</KeepTogether>
+        <Top>13.85414cm</Top>
+        <Left>13.96141cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.04293cm</Width>
+        <ZIndex>26</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle26">
+        <KeepTogether>true</KeepTogether>
+        <Top>14.41386cm</Top>
+        <Left>1.1947cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45847cm</Width>
+        <ZIndex>27</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle27">
+        <KeepTogether>true</KeepTogether>
+        <Top>14.41386cm</Top>
+        <Left>13.96141cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.04293cm</Width>
+        <ZIndex>28</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle28">
+        <KeepTogether>true</KeepTogether>
+        <Top>14.97358cm</Top>
+        <Left>1.19471cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45845cm</Width>
+        <ZIndex>29</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle29">
+        <KeepTogether>true</KeepTogether>
+        <Top>14.97358cm</Top>
+        <Left>13.96141cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.04293cm</Width>
+        <ZIndex>30</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle12">
+        <KeepTogether>true</KeepTogether>
+        <Top>15.5333cm</Top>
+        <Left>1.19472cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45844cm</Width>
+        <ZIndex>31</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle13">
+        <KeepTogether>true</KeepTogether>
+        <Top>15.5333cm</Top>
+        <Left>13.96141cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.04293cm</Width>
+        <ZIndex>32</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle14">
+        <KeepTogether>true</KeepTogether>
+        <Top>16.09302cm</Top>
+        <Left>1.19473cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45841cm</Width>
+        <ZIndex>33</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle15">
+        <KeepTogether>true</KeepTogether>
+        <Top>16.09302cm</Top>
+        <Left>13.96141cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.04293cm</Width>
+        <ZIndex>34</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle30">
+        <KeepTogether>true</KeepTogether>
+        <Top>16.65274cm</Top>
+        <Left>1.1947cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45847cm</Width>
+        <ZIndex>35</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle31">
+        <KeepTogether>true</KeepTogether>
+        <Top>16.65274cm</Top>
+        <Left>13.96141cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.04293cm</Width>
+        <ZIndex>36</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle32">
+        <KeepTogether>true</KeepTogether>
+        <Top>17.21246cm</Top>
+        <Left>1.1947cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45847cm</Width>
+        <ZIndex>37</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle33">
+        <ReportItems>
+          <Rectangle Name="Rectangle37">
+            <KeepTogether>true</KeepTogether>
+            <Height>0.55972cm</Height>
+            <Width>3.04293cm</Width>
+            <Style>
+              <Border>
+                <Style>Solid</Style>
+              </Border>
+              <BackgroundColor>WhiteSmoke</BackgroundColor>
+            </Style>
+          </Rectangle>
+        </ReportItems>
+        <KeepTogether>true</KeepTogether>
+        <Top>17.21246cm</Top>
+        <Left>13.96141cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.04293cm</Width>
+        <ZIndex>38</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Textbox Name="Dominio">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!Dominio.Value, "DataSetOrdenReparacion")</Value>
+                <Style>
+                  <FontFamily>Segoe UI</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Dominio</rd:DefaultName>
+        <Top>1.23913cm</Top>
+        <Left>3.21848cm</Left>
+        <Height>0.5cm</Height>
+        <Width>2.5cm</Width>
+        <ZIndex>39</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Marca">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!Marca.Value, "DataSetOrdenReparacion")</Value>
+                <Style>
+                  <FontFamily>Segoe UI</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Marca</rd:DefaultName>
+        <Top>1.73913cm</Top>
+        <Left>3.21845cm</Left>
+        <Height>0.5cm</Height>
+        <Width>2.5cm</Width>
+        <ZIndex>40</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="modelo">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!modelo.Value, "DataSetOrdenReparacion")</Value>
+                <Style>
+                  <FontFamily>Segoe UI</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>modelo</rd:DefaultName>
+        <Top>2.23913cm</Top>
+        <Left>3.21848cm</Left>
+        <Height>0.5cm</Height>
+        <Width>2.5cm</Width>
+        <ZIndex>41</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Kilometros">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!Kilometros.Value, "DataSetOrdenReparacion")</Value>
+                <Style>
+                  <FontFamily>Segoe UI</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Left</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Kilometros</rd:DefaultName>
+        <Top>2.73913cm</Top>
+        <Left>3.43012cm</Left>
+        <Height>0.5cm</Height>
+        <Width>3.32999cm</Width>
+        <ZIndex>42</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Rectangle Name="Rectangle34">
+        <KeepTogether>true</KeepTogether>
+        <Top>17.77218cm</Top>
+        <Left>13.96141cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.04293cm</Width>
+        <ZIndex>43</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle16">
+        <KeepTogether>true</KeepTogether>
+        <Top>18.3319cm</Top>
+        <Left>13.96141cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>3.04293cm</Width>
+        <ZIndex>44</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle35">
+        <KeepTogether>true</KeepTogether>
+        <Top>17.77218cm</Top>
+        <Left>1.1947cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45847cm</Width>
+        <ZIndex>45</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="Rectangle36">
+        <KeepTogether>true</KeepTogether>
+        <Top>18.3319cm</Top>
+        <Left>1.1947cm</Left>
+        <Height>0.55972cm</Height>
+        <Width>12.45847cm</Width>
+        <ZIndex>46</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>WhiteSmoke</BackgroundColor>
+        </Style>
+      </Rectangle>
+    </ReportItems>
+    <Height>7.6512in</Height>
+    <Style />
+  </Body>
+  <Width>6.9112in</Width>
+  <Page>
+    <PageHeader>
+      <Height>3.24178cm</Height>
+      <PrintOnFirstPage>true</PrintOnFirstPage>
+      <PrintOnLastPage>true</PrintOnLastPage>
+      <ReportItems>
+        <Line Name="Line1">
+          <Top>2.9816cm</Top>
+          <Height>0cm</Height>
+          <Width>17.55444cm</Width>
+          <Style>
+            <Border>
+              <Style>Solid</Style>
+            </Border>
+          </Style>
+        </Line>
+        <Textbox Name="idCliente">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>=First(Fields!RazonSocial.Value, "DataSetOrdenReparacion")</Value>
+                  <Style>
+                    <FontFamily>Segoe UI</FontFamily>
+                    <FontSize>12pt</FontSize>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Center</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>idCliente</rd:DefaultName>
+          <Top>0.54716cm</Top>
+          <Left>1.51222cm</Left>
+          <Height>0.6cm</Height>
+          <Width>6.49521cm</Width>
+          <ZIndex>1</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <VerticalAlign>Middle</VerticalAlign>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="RazonSocial1">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>=First(Fields!Apellido.Value, "DataSetOrdenReparacion") &amp;" "&amp; First(Fields!nombre.Value, "DataSetOrdenReparacion")</Value>
+                  <Style>
+                    <FontFamily>Segoe UI</FontFamily>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Center</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>RazonSocial1</rd:DefaultName>
+          <Top>1.18216cm</Top>
+          <Left>1.51222cm</Left>
+          <Height>0.5cm</Height>
+          <Width>6.49521cm</Width>
+          <ZIndex>2</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <VerticalAlign>Middle</VerticalAlign>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="TelFijo">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>=First(Fields!telfijo.Value, "DataSetOrdenReparacion")</Value>
+                  <Style>
+                    <FontFamily>Segoe UI</FontFamily>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style />
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>TelFijo</rd:DefaultName>
+          <Top>1.72328cm</Top>
+          <Left>1.51223cm</Left>
+          <Height>0.5cm</Height>
+          <Width>3cm</Width>
+          <ZIndex>3</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <VerticalAlign>Middle</VerticalAlign>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="TelCelular">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>=First(Fields!telcelular.Value, "DataSetOrdenReparacion")</Value>
+                  <Style>
+                    <FontFamily>Segoe UI</FontFamily>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style />
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>TelCelular</rd:DefaultName>
+          <Top>1.71744cm</Top>
+          <Left>5.00743cm</Left>
+          <Height>0.5cm</Height>
+          <Width>3cm</Width>
+          <ZIndex>4</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <VerticalAlign>Middle</VerticalAlign>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="Email">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>=First(Fields!email.Value, "DataSetOrdenReparacion")</Value>
+                  <Style>
+                    <FontFamily>Segoe UI</FontFamily>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Center</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Email</rd:DefaultName>
+          <Top>2.21744cm</Top>
+          <Left>1.51222cm</Left>
+          <Height>0.5cm</Height>
+          <Width>6.49521cm</Width>
+          <ZIndex>5</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <VerticalAlign>Middle</VerticalAlign>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="RazonSocial">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>=First(Fields!RazonSocial.Value, "DataSetMisDatos")</Value>
+                  <Style>
+                    <FontFamily>Segoe UI</FontFamily>
+                    <FontSize>14pt</FontSize>
+                    <TextDecoration>Underline</TextDecoration>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Center</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>RazonSocial</rd:DefaultName>
+          <Top>0.54716cm</Top>
+          <Left>9.2116cm</Left>
+          <Height>0.86458cm</Height>
+          <Width>7.7652cm</Width>
+          <ZIndex>6</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="Textbox8">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>=First(Fields!FechaEntrada.Value, "DataSetOrdenReparacion")</Value>
+                  <Style>
+                    <FontFamily>Segoe UI</FontFamily>
+                    <Format>m</Format>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Left</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox8</rd:DefaultName>
+          <Top>2.23251cm</Top>
+          <Left>12.30723cm</Left>
+          <Height>0.64326cm</Height>
+          <Width>3.135cm</Width>
+          <ZIndex>7</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <VerticalAlign>Middle</VerticalAlign>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="idCliente2">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>Fecha:</Value>
+                  <Style>
+                    <FontFamily>Segoe UI</FontFamily>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Left</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>idCliente</rd:DefaultName>
+          <Top>2.2365cm</Top>
+          <Left>11.21361cm</Left>
+          <Height>0.63528cm</Height>
+          <Width>1.09362cm</Width>
+          <ZIndex>8</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <VerticalAlign>Middle</VerticalAlign>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="IdReparacion">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>="Orden de reparación Nº: " &amp; Sum(Fields!IdReparacion.Value, "DataSetOrdenReparacion")</Value>
+                  <Style>
+                    <FontFamily>Segoe UI</FontFamily>
+                    <FontSize>14pt</FontSize>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Center</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>IdReparacion</rd:DefaultName>
+          <Top>1.41174cm</Top>
+          <Left>9.2116cm</Left>
+          <Height>0.71493cm</Height>
+          <Width>7.72992cm</Width>
+          <ZIndex>9</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <VerticalAlign>Middle</VerticalAlign>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+      </ReportItems>
+      <Style>
+        <Border>
+          <Style>None</Style>
+        </Border>
+      </Style>
+    </PageHeader>
+    <PageFooter>
+      <Height>1.40229cm</Height>
+      <PrintOnFirstPage>true</PrintOnFirstPage>
+      <PrintOnLastPage>true</PrintOnLastPage>
+      <ReportItems>
+        <Line Name="Line2">
+          <Top>0.17638cm</Top>
+          <Height>0cm</Height>
+          <Width>17.55444cm</Width>
+          <Style>
+            <Border>
+              <Style>Solid</Style>
+            </Border>
+          </Style>
+        </Line>
+        <Textbox Name="Textbox9">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>Documento de uso interno</Value>
+                  <Style>
+                    <FontFamily>Segoe UI</FontFamily>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style />
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox9</rd:DefaultName>
+          <Top>0.47155cm</Top>
+          <Left>1.51222cm</Left>
+          <Height>0.6cm</Height>
+          <Width>15.46458cm</Width>
+          <ZIndex>1</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+      </ReportItems>
+      <Style>
+        <Border>
+          <Style>None</Style>
+        </Border>
+      </Style>
+    </PageFooter>
+    <PageHeight>29.7cm</PageHeight>
+    <PageWidth>21cm</PageWidth>
+    <LeftMargin>2cm</LeftMargin>
+    <RightMargin>2cm</RightMargin>
+    <TopMargin>2cm</TopMargin>
+    <BottomMargin>2cm</BottomMargin>
+    <ColumnSpacing>0.13cm</ColumnSpacing>
+    <Style />
+  </Page>
+  <EmbeddedImages>
+    <EmbeddedImage Name="Recurso16">
+      <MIMEType>image/png</MIMEType>
+      <ImageData>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</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <rd:ReportID>d2c4ac1f-1c56-4fa3-b384-f89b9a8f4e36</rd:ReportID>
+  <rd:ReportUnitType>Cm</rd:ReportUnitType>
+</Report>
